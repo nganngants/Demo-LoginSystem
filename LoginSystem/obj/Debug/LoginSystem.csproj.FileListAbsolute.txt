@@ -1,0 +1,12 @@
+D:\Code\C#\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+D:\Code\C#\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+D:\Code\C#\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.LoginForm.resources
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.SuccessfulLogin.resources
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+D:\Code\C#\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
